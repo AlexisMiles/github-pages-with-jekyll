@@ -1,4 +1,8 @@
-title: Your awesome title
+---
+title: Test
+date: 2019-02-25
+---
+
 author: Alexis M
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
